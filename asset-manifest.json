@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.47a459b8.css",
-    "main.js": "/personal-portfolio/static/js/main.ebeac371.js",
+    "main.js": "/personal-portfolio/static/js/main.71e3827e.js",
     "static/js/787.fb771931.chunk.js": "/personal-portfolio/static/js/787.fb771931.chunk.js",
     "static/media/logo.svg": "/personal-portfolio/static/media/logo.462b6d8f8569004292e18087f319ab7a.svg",
     "static/media/color-sharp.png": "/personal-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -9,7 +9,6 @@
     "static/media/StreetFighter.png": "/personal-portfolio/static/media/StreetFighter.0f38652ef9f9a0133bcf.png",
     "static/media/Gesture.png": "/personal-portfolio/static/media/Gesture.150cf20c3a26259ae6f1.png",
     "static/media/KnightPuzzle.png": "/personal-portfolio/static/media/KnightPuzzle.c334a72f82b4ea4c37a7.png",
-    "static/media/Minecraft.png": "/personal-portfolio/static/media/Minecraft.d5ef6ff579ec9f96ef28.png",
     "static/media/UW.png": "/personal-portfolio/static/media/UW.f716f3f70ba2e55f79a8.png",
     "static/media/Emotion.png": "/personal-portfolio/static/media/Emotion.b08bd3967e5cd7ce1988.png",
     "static/media/Digit.png": "/personal-portfolio/static/media/Digit.ed9a7d1e1f395a18c39e.png",
@@ -26,9 +25,11 @@
     "static/media/CentraNo2-Bold.ttf": "/personal-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/personal-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/personal-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/Flick.png": "/personal-portfolio/static/media/Flick.de035157b9287a5aa197.png",
     "static/media/footer-bg.png": "/personal-portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/WordSearchSolver.png": "/personal-portfolio/static/media/WordSearchSolver.10f4c185fc703efb5e22.png",
     "static/media/Maze.png": "/personal-portfolio/static/media/Maze.9dff54676c6e2d7d9712.png",
+    "static/media/Easyclaim.png": "/personal-portfolio/static/media/Easyclaim.867260e8569c2eb3f775.png",
     "static/media/revicons.eot": "/personal-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/personal-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/personal-portfolio/static/media/revicons.e8746a624ed098489406.woff",
@@ -38,11 +39,11 @@
     "index.html": "/personal-portfolio/index.html",
     "static/media/nav-icon1.svg": "/personal-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.47a459b8.css.map": "/personal-portfolio/static/css/main.47a459b8.css.map",
-    "main.ebeac371.js.map": "/personal-portfolio/static/js/main.ebeac371.js.map",
+    "main.71e3827e.js.map": "/personal-portfolio/static/js/main.71e3827e.js.map",
     "787.fb771931.chunk.js.map": "/personal-portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47a459b8.css",
-    "static/js/main.ebeac371.js"
+    "static/js/main.71e3827e.js"
   ]
 }
