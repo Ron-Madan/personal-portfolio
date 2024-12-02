@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.47a459b8.css",
-    "main.js": "/personal-portfolio/static/js/main.1a21b36b.js",
+    "main.js": "/personal-portfolio/static/js/main.384818f2.js",
     "static/js/787.fb771931.chunk.js": "/personal-portfolio/static/js/787.fb771931.chunk.js",
     "static/media/logo.svg": "/personal-portfolio/static/media/logo.462b6d8f8569004292e18087f319ab7a.svg",
     "static/media/color-sharp.png": "/personal-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -12,6 +12,7 @@
     "static/media/securian-logo.png": "/personal-portfolio/static/media/securian-logo.40b86b12590f9ea47164.png",
     "static/media/Tennis.png": "/personal-portfolio/static/media/Tennis.7bf51d900de3ba8b1be8.png",
     "static/media/Insurance.png": "/personal-portfolio/static/media/Insurance.1e7e888004f95b6093b9.png",
+    "static/media/Mastermind.png": "/personal-portfolio/static/media/Mastermind.3ad13d7551d0fa4d4e62.png",
     "static/media/StreetFighter.png": "/personal-portfolio/static/media/StreetFighter.0f38652ef9f9a0133bcf.png",
     "static/media/Gesture.png": "/personal-portfolio/static/media/Gesture.150cf20c3a26259ae6f1.png",
     "static/media/UW.png": "/personal-portfolio/static/media/UW.f716f3f70ba2e55f79a8.png",
@@ -46,11 +47,11 @@
     "index.html": "/personal-portfolio/index.html",
     "static/media/nav-icon1.svg": "/personal-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.47a459b8.css.map": "/personal-portfolio/static/css/main.47a459b8.css.map",
-    "main.1a21b36b.js.map": "/personal-portfolio/static/js/main.1a21b36b.js.map",
+    "main.384818f2.js.map": "/personal-portfolio/static/js/main.384818f2.js.map",
     "787.fb771931.chunk.js.map": "/personal-portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47a459b8.css",
-    "static/js/main.1a21b36b.js"
+    "static/js/main.384818f2.js"
   ]
 }
