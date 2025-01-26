@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.47a459b8.css",
-    "main.js": "/personal-portfolio/static/js/main.384818f2.js",
+    "main.js": "/personal-portfolio/static/js/main.bc848a76.js",
     "static/js/787.fb771931.chunk.js": "/personal-portfolio/static/js/787.fb771931.chunk.js",
     "static/media/logo.svg": "/personal-portfolio/static/media/logo.462b6d8f8569004292e18087f319ab7a.svg",
     "static/media/color-sharp.png": "/personal-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -29,6 +29,7 @@
     "static/media/LinearRegression.png": "/personal-portfolio/static/media/LinearRegression.eb02028f3c511314afb7.png",
     "static/media/name.png": "/personal-portfolio/static/media/name.210a9c08840744a9a455.png",
     "static/media/TicTacToe.png": "/personal-portfolio/static/media/TicTacToe.74b1bdfd5b56c99e7673.png",
+    "static/media/Eight-Puzzle.png": "/personal-portfolio/static/media/Eight-Puzzle.933aa8951a61aeb3a800.png",
     "static/media/nav-icon2.svg": "/personal-portfolio/static/media/nav-icon2.49c1a7106774d152e8ac46e34c9440c8.svg",
     "static/media/CentraNo2-Bold.ttf": "/personal-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/personal-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -47,11 +48,11 @@
     "index.html": "/personal-portfolio/index.html",
     "static/media/nav-icon1.svg": "/personal-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.47a459b8.css.map": "/personal-portfolio/static/css/main.47a459b8.css.map",
-    "main.384818f2.js.map": "/personal-portfolio/static/js/main.384818f2.js.map",
+    "main.bc848a76.js.map": "/personal-portfolio/static/js/main.bc848a76.js.map",
     "787.fb771931.chunk.js.map": "/personal-portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47a459b8.css",
-    "static/js/main.384818f2.js"
+    "static/js/main.bc848a76.js"
   ]
 }
